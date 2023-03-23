@@ -1,6 +1,6 @@
 # Myprintf
 ![68747470733a2f2f67616d652e343273702e6f72672e62722f7374617469632f6173736574732f616368696576656d656e74732f66745f7072696e7466652e706e67](https://user-images.githubusercontent.com/90562697/227227500-62e7b928-fe06-45c0-bf50-50c9345d684e.png)
-ft_printf - 42 Network Project
+## ft_printf - 1337
 
 As part of my work within the 42 Network, I had the opportunity to work on a project called ft_printf. The goal of this project was to create our own version of the C programming language's printf function, using only the standard C library functions.
 
